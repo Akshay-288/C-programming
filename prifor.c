@@ -4,9 +4,7 @@ int main(){
     printf("enter number");
     scanf("%d",num);
     for(a=2;a<=num/2;a++){
-        num%a==0
+        num%a==0;
         count++;
         }
-    
-        
     }  
